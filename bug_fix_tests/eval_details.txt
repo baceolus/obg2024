@@ -1,0 +1,9 @@
+primer eval:
+    python
+    generate pcr primers
+    script provided by Al-Hussein
+    LLMs can recover some parameter values (eg GC min/max) exactly after modification, so we think this might have been seen before
+r eval:
+    r
+    identify gene with most variants above expectation, thus probably disease related
+    assembled from a terra training notebook Leyla provided
