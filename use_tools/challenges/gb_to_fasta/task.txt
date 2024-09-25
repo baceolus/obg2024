@@ -1,0 +1,1 @@
+Convert GenBank file input_1.gb to fasta format saved in output.txt

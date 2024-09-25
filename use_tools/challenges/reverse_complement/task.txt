@@ -1,0 +1,1 @@
+Write the reverse complement of the sequence GATTACA to output.txt

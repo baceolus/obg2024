@@ -1,0 +1,4 @@
+Given protein sequences in input file input_1.fasta, produce a single line output file output.txt containing the ID of the sequence which best aligns to sequence 1 (not counting sequence 1 aligning to itself).
+
+For example, if you think sequence 47 best aligns to sequence 1, output would be:
+47
